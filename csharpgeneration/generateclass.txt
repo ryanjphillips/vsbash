@@ -1,0 +1,10 @@
+using System;
+
+namespace 1
+{
+
+	public class 2
+	{
+
+	}
+}
